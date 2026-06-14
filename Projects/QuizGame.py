@@ -57,4 +57,4 @@ else:
 
 print(name, "YOU COMPLETED YOUR QUIZ.......🥳")
 print("YOUR SCORE : ", Score)
-print("YOU GOT:", (Score/5)*100, "%")
+print("YOU GOT: ", (Score/5)*100, "%")
