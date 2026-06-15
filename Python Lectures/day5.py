@@ -103,9 +103,6 @@ for mul in range(1,11,1):
 pass is a null statement that do nothing but it hold place for future code.
 """
 
-#HARDEST CHAPTER TILL NOW, I NEED TO REWATCH IT IN FUTURE. 
-#DAY 5 WAS COMPLETED.
-
 
 
                 

@@ -163,12 +163,7 @@ mul(1)
 
 #CHAPTER COMPLETED
 
-""" 
-Function was clear but Recursion was not clear,this is really hard topic.
-and "recursion!" this topic is completely go over head.
-"""
-
 
 """ 
-END OF DAY 6 😥
+END OF DAY 6 
 """

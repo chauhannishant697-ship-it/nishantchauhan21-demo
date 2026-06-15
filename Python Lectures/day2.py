@@ -201,11 +201,3 @@ print(str.count("N"))
 """
 END OF DAY 2
 """
-
-
-
-
-
-
-
-

@@ -82,8 +82,6 @@ import os
 os.remove("file_name")
 """
 
-# concept like: a+ w+ r+ , with use.... they are confusing need to learn them again, ALSO I can not solve any question related to file handling, need to practice more questions on file handling.
-
 """
 DAY 7 IS COMPLETED.
 """

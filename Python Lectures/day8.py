@@ -75,7 +75,7 @@ Hiding the un important details of a class and only showing the important featur
 Wrapping data and function into a single unit(object).
 """
 
-# small program of bank account made by be after 100 time errors , 100 time see lecture 100 time search on chat gpt 😭😭😭:
+# small program of bank account made by be after 100 time errors 😭😭😭:
 class Account:
     
     def __init__(self, bal, acc):
