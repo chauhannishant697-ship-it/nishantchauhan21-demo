@@ -10,8 +10,6 @@ img= qrcode.make(url)
 img.save(filename)
 
 print(f"QR Code '{filename}' generated successfully!")
-print("QR Code Saved Successfully!")
-
 
 
 
