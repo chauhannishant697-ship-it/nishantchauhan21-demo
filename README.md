@@ -1,22 +1,27 @@
 # nishantchauhan21-demo
 # Python Learning Journey
 
-Hi, I'm Nishant.
+Hi, I'm Nishant Chauhan 👋
 
-This repository contains:
+Python Developer
 
-## Python Lectures
-- Day 1
-- Day 2
-- Day 3
-- ...
-- Day 9
+• Python
+• Git & GitHub
+• File Automation
+• API Projects
+• Problem Solving
 
-## Projects
-- Guess Number Game
-- Password Generator
-- Quiz Game
-- Rock Paper Scissors
+Projects
+✅ Password Manager
+✅ QR Code Generator
+✅ News App
+✅ Rock Paper Scissors
+✅ File Organizer
 
-## Goal
-Learning Python and building projects consistently.
+Currently Learning
+• OOP
+• SQL
+• Django
+
+Contact Number : 8534924821
+Email : chauhannishant697@gmail.com
