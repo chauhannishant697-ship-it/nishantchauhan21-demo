@@ -36,3 +36,4 @@ print("\n🎉 Game Over!")
 print(f"Total Time: {total_time} seconds")
 print(f"Wrong Attempts: {wrong}")
 
+
